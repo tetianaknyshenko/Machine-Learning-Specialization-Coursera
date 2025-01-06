@@ -1,4 +1,36 @@
 # Machine-Learning-Specialization-Coursera
+Линейная регрессия (Linear Regression)
+
+Метод предсказания непрерывных значений на основе зависимости между переменными.
+Регуляризация для избежания переобучения (Regularization to Avoid Overfitting)
+
+Техника, уменьшающая сложность модели, чтобы предотвратить её адаптацию к шуму в данных.
+Логистическая регрессия для классификации (Logistic Regression for Classification)
+
+Модель, используемая для предсказания категориальных значений (например, да/нет, 0/1).
+Градиентный спуск (Gradient Descent)
+
+Алгоритм оптимизации, который минимизирует ошибку модели, корректируя параметры.
+Обучение с учителем (Supervised Learning)
+
+Метод машинного обучения, при котором модель обучается на размеченных данных.
+🇬🇧 Brief Explanation in English:
+Linear Regression: Predicts continuous outcomes based on relationships between variables.
+Regularization to Avoid Overfitting: Reduces model complexity to prevent it from fitting noise in the data.
+Logistic Regression for Classification: Used for predicting categorical outcomes (e.g., yes/no).
+Gradient Descent: An optimization algorithm that minimizes model error by adjusting parameters.
+Supervised Learning: A machine learning method where a model learns from labeled data.
+🇩🇪 Kurze Erklärung auf Deutsch:
+Lineare Regression: Sagt kontinuierliche Werte basierend auf Variablenbeziehungen voraus.
+Regularisierung zur Vermeidung von Overfitting: Reduziert die Komplexität des Modells, um Überanpassung zu vermeiden.
+Logistische Regression für Klassifikation: Wird verwendet, um kategoriale Ergebnisse vorherzusagen (z.B. ja/nein).
+Gradientenabstieg: Ein Optimierungsalgorithmus, der Modellfehler durch Anpassung von Parametern minimiert.
+Überwachtes Lernen (Supervised Learning): Eine Methode des maschinellen Lernens, bei der das Modell mit beschrifteten Daten trainiert wird.
+
+
+
+
+
 Gradient Descent grad spusk
 
 Derivative производная 
